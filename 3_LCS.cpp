@@ -3,7 +3,7 @@
 #include <string>
 using namespace std;
 
-string x, y;
+string x, y; //x & y
 int c[1001][1001];
 char b[1001][1001];
 
